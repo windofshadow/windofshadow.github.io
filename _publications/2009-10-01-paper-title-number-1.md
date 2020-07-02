@@ -1,4 +1,4 @@
-+++
+---
 title = "Indoor robot localization based on multidimensional scaling"
 date = "2015-01-01"
 authors = ["W. Cui","C. Wu","Y. Zhang","B. Li","W. Fu"]
@@ -19,7 +19,6 @@ url_source = ""
 url_video = ""
 math = true
 highlight = true
-[image]
 image = ""
 caption = ""
-+++
+---
