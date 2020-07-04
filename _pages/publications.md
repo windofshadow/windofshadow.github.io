@@ -19,7 +19,7 @@ Publications
 Muhammad Asif Ali, Yifang Sun, <b>Bing Li</b>, Wei Wang,<br>
 <i>AAAI</i>, (2020): 7391-7398.
 
-1. <b>[HAMNER: Headword Amplified Multi-Span Distantly Supervised Method for Domain Specific Named Entity Recognition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuS.6346.pdf</b> <br> 
+1. <b>[HAMNER: Headword Amplified Multi-Span Distantly Supervised Method for Domain Specific Named Entity Recognition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuS.6346.pdf)</b> <br> 
 Shifeng Liu, Yifang Sun, <b>Bing Li</b>, Wei Wang, Xiang Zhao,<br>
 <i>AAAI</i>, (2020): 8401-8408.
 
@@ -35,34 +35,34 @@ Wei Cui, <b>Bing Li</b>, Le Zhang, Wei Meng,<br>
 <b>Bing Li</b>, Xiaochun Yang, Bin Wang, Wei Wang, Wei Cui, Xianchao Zhang,<br>
 <i>IJCAI</i>, (2018): 4144-4151
 
+1. <b>[Robust mobile location estimation in NLOS environment using GMM, IMM, and EKF](https://ieeexplore.ieee.org/abstract/document/8347121/)</b> <br> 
+Mengyu Li, Manfred Lenzen, Felix Keck, Bonnie McBain, Olivier Rey-Lescure, <b>Bing Li</b>, Chaoyang Jiang,<br>
+<i>IEEE Transactions on Smart Grid</i>, 10, no. 4 (2018): 3525-3534
 
+1. <b>[An efficient method for high quality and cohesive topical phrase mining](https://ieeexplore.ieee.org/abstract/document/8332520/)</b> <br> 
+<b>Bing Li</b>, Xiaochun Yang, Rui Zhou, Bin Wang, Chengfei Liu, Yanchun Zhang,<br>
+<i>IEEE Transactions on Knowledge and Data Engineering</i>, 31, no. 1 (2018): 120-137
 
-## Conference Publications
+1. <b>[Received signal strength based indoor positioning using a random vector functional link network](https://ieeexplore.ieee.org/abstract/document/8063349/)</b> <br> 
+Wei Cui, Le Zhang, <b>Bing Li</b>, Jing Guo, Wei Meng, Haixia Wang, Lihua Xie,<br>
+<i>IEEE Transactions on Industrial Informatics</i>, 14, no. 5 (2017): 1846-1855
 
-1. <b>A Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data</b><br>
-<b>Zhenghua Chen</b>, Min Wu, Jiyan Wu, Jie Ding, Zeng Zeng, Karl Surmacz, Xiaoli Li,<br>
-<i>IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)</i>, 2019.
+1. <b>[Efficiently mining high quality phrases from texts](https://ieeexplore.ieee.org/abstract/document/8063349/)</b> <br> 
+<b>Bing Li</b>, Xiaochun Yang, Bin Wang, Wei Cui,<br>
+<i>AAAI</i>, (2017)
 
-1. <b>Indoor localization using smartphone sensors and ibeacons</b><br>
-<b>Zhenghua Chen</b>, Qingchang Zhu, Hao Jiang, Yeng Chai Soh,<br>
-<i>Industrial Electronics and Applications (ICIEA), 2015 IEEE 10th Conference on</i>, pp. 1723-1728. IEEE, 2015.
+1. <b>[Dynamic multidimensional scaling algorithm for 3-D mobile localization](https://ieeexplore.ieee.org/abstract/document/7588084/)</b> <br> 
+Wei Cui, Chengdong Wu, Wei Meng, <b>Bing Li</b>, Yunzhou Zhang, Lihua Xie,<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>, 65, no. 12 (2016): 2853-2865
 
-1. <b>Modeling building occupancy using a novel inhomogeneous Markov chain approach</b><br>
-<b>Zhenghua Chen</b>, Yeng Chai Soh,<br>
-<i>Automation Science and Engineering (CASE), 2014 IEEE International Conference on</i>, pp. 1079-1084. IEEE, 2014.
+1. <b>[Citpm: A cluster-based iterative topical phrase mining framework](https://link.springer.com/chapter/10.1007/978-3-319-32025-0_13)</b> <br> 
+<b>Bing Li</b>, Bin Wang, Rui Zhou, Xiaochun Yang, Chengfei Liu,<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>, (2016): 197-213
 
-1. <b>Building occupancy detection from carbon-dioxide and motion sensors</b><br>
-Chaoyang Jiang, <b>Zhenghua Chen</b>, Lih Chieh Png, Korkut Bekiroglu, Seshadhri Srinivasan, Rong Su,<br> 
-<i>Control, Automation, Robotics and Vision (ICARCV), 2018 IEEE International Conference on</i>, 2018.
+1. <b>[A robust wireless sensor network localization algorithm in mixed LOS/NLOS scenario](https://www.mdpi.com/1424-8220/15/9/23536)</b> <br> 
+<b>Bing Li</b>, Wei Cui, Bin Wang,<br>
+<i>Sensors</i>, 15, no. 9 (2015): 23536-23553
 
-1. <b>Accurate Indoor Localization and Tracking Using Mobile Phone Inertial Sensor, WiFi and iBeacon</b><br>
-Han Zou, <b>Zhenghua Chen</b>, Hao Jiang, Lihua Xie, Costas Spanos,<br> 
-<i>Inertial Sensors and Systems (INERTIAL), 2017 IEEE International Symposium on</i>, pp. 1-4. IEEE, 2017.
-
-1. <b>Using unlabeled acoustic data with locality-constrained linear coding for energy-related activity recognition in buildings</b><br>
-Qingchang Zhu, <b>Zhenghua Chen</b>, Yeng Chai Soh,<br> 
-<i>Automation Science and Engineering (CASE), 2015 IEEE International Conference on</i>, pp. 174-179. IEEE, 2015.
-
-1. <b>Smartphone-based Human Activity Recognition in buildings using Locality-constrained Linear Coding</b><br>
-Qingchang Zhu, <b>Zhenghua Chen</b>, Yeng Chai Soh,<br> 
-<i>Industrial Electronics and Applications (ICIEA), 2015 IEEE 10th Conference on</i>, pp. 214-219. IEEE, 2015.
+1. <b>[Indoor robot localization based on multidimensional scaling](https://journals.sagepub.com/doi/abs/10.1155/2015/719658)</b> <br> 
+Wei Cui, Chengdong Wu, Yunzhou Zhang, <b>Bing Li</b>, Wenyan Fu,<br>
+<i>International Journal of Distributed Sensor Networks</i>, 11, no. 8 (2015): 719658
