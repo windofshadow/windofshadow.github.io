@@ -10,7 +10,7 @@ redirect_from:
 
 * I am currently a Postdoctoral Fellow at the School of Computer Science, University of New South Wales (UNSW), Australia.
 
-* I obtained my Ph.D. Degree from Northeastern University, China at 2018 under the supervision of Prof. Xiaochun Yang. From 2017 to 2018, I am a joint-training Ph.D. of UNSW under the supervision of Prof. Wei Wang. After graduation, I have been working at UNSW as a Postdoctoral Fellow under the supervision of Prof. Wei Wang. 
+* I obtained my Ph.D. Degree from Northeastern University, China at 2018 under the supervision of Prof. Xiaochun Yang. From 2017 to 2018, I was a joint-training Ph.D. student of UNSW. After graduation, I have been working at UNSW as a Postdoctoral Fellow under the supervision of Prof. Wei Wang. 
 
 * My research interests are NLP, Text Mining, and related applications.
 
