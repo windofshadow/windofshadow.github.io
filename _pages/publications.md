@@ -8,14 +8,13 @@ author_profile: true
 Publications
 
 
+1. <b>[GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.10313.pdf)</b> <br> 
+<b>Bing Li</b>, Wei Wang, Yifang Sun, Linhan Zhang, MA Ali, Yi Wang,<br>
+<i>AAAI</i>, (2020): 8172-8179.
 
-1. <b>[A Novel Ensemble ELM for Human Activity Recognition Using Smartphone Sensors](https://ieeexplore.ieee.org/abstract/document/8462779)</b> <br> 
-<b>Zhenghua Chen</b>, Chaoyang Jiang, Lihua Xie,<br>
-<i>IEEE Transactions on Industrial Informatics</i>, 15, no. 5 (2019): 2691 - 2699.
-
-1. <b>[Distilling the Knowledge from Handcrafted Features for Human Activity Recognition](https://ieeexplore.ieee.org/document/8247224)</b> <br> 
-<b>Zhenghua Chen</b>, Le Zhang, Zhiguang Cao, Jing Guo,<br>
-<i>IEEE Transactions on Industrial Informatics</i>, 14, no. 10 (2018): 4334 - 4342.
+1. <b>[Recursively Binary Modification Model for Nested Named Entity Recognition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.9947.pdf)</b> <br> 
+<b>Bing Li</b>, Shifeng Liu, Yifnag Sun, Wei Wang, Xiang Zhao,<br>
+<i>AAAI</i>, (2020): 8164-8171.
 
 1. <b>[Building Occupancy Estimation with Environmental Sensors via CDBLSTM](https://ieeexplore.ieee.org/document/7938392)</b> <br> 
 <b>Zhenghua Chen</b>, Rui Zhao, Qingchang Zhu, Mustafa K. Masood, Yeng Chai Soh, Kezhi Mao,<br>
