@@ -59,10 +59,3 @@ Wei Cui, Chengdong Wu, Wei Meng, <b>Bing Li</b>, Yunzhou Zhang, Lihua Xie,<br>
 <b>Bing Li</b>, Bin Wang, Rui Zhou, Xiaochun Yang, Chengfei Liu,<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, (2016): 197-213
 
-1. <b>[A robust wireless sensor network localization algorithm in mixed LOS/NLOS scenario](https://www.mdpi.com/1424-8220/15/9/23536)</b> <br> 
-<b>Bing Li</b>, Wei Cui, Bin Wang,<br>
-<i>Sensors</i>, 15, no. 9 (2015): 23536-23553
-
-1. <b>[Indoor robot localization based on multidimensional scaling](https://journals.sagepub.com/doi/abs/10.1155/2015/719658)</b> <br> 
-Wei Cui, Chengdong Wu, Yunzhou Zhang, <b>Bing Li</b>, Wenyan Fu,<br>
-<i>International Journal of Distributed Sensor Networks</i>, 11, no. 8 (2015): 719658
