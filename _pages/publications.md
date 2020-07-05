@@ -57,5 +57,5 @@ Wei Cui, Chengdong Wu, Wei Meng, <b>Bing Li</b>, Yunzhou Zhang, Lihua Xie,<br>
 
 1. <b>[Citpm: A cluster-based iterative topical phrase mining framework](https://link.springer.com/chapter/10.1007/978-3-319-32025-0_13)</b> <br> 
 <b>Bing Li</b>, Bin Wang, Rui Zhou, Xiaochun Yang, Chengfei Liu,<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>, (2016): 197-213
+<i>DASFAA</i>, (2016): 197-213
 
