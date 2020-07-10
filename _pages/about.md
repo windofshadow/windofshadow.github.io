@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* I was awarded ACM SIGMOD China Doctoral Dissertation Award (1/2)
 * I was invited to serve as PC for [ICML2020](https://icml.cc/Conferences/2020/).
 * I have four papers been accepted by <b>AAAI2020</b> main technical track.
 * I was invited to serve as PC for [AAAI2020](https://aaai.org/Conferences/AAAI-20/).
