@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 * **Conference PC member:**
-  * [AAAI2021]
-  * [ICLR2021]
+  * [AAAI2021](https://aaai.org/Conferences/AAAI-21/)
+  * [ICLR2021](https://iclr.cc/)
   * [AAAI2020](https://aaai.org/Conferences/AAAI-20/)
   * [ICML2020](https://icml.cc/)
   
