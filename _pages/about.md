@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* I have two papers been accepted by <b>AAAI2021</b> main technical track.
 * I was invited to serve as PC for ICLR2021.
 * I was invited to serve as PC for AAAI2021.
 * I was awarded ACM SIGMOD China Doctoral Dissertation Award (Rank the first among the only two awardees China-wide)
