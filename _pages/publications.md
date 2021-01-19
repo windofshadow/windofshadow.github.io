@@ -7,6 +7,10 @@ author_profile: true
 
 Publications
 
+1. <b>[GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks](111.pdf)</b> <br> 
+<b>Bing Li</b>, Wei Wang, Yifang Sun, Linhan Zhang, Muhammad Asif Ali, Yi Wang,<br>
+<i>AAAI</i>, (2020): 8172-8179.
+
 1. <b>[GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.10313.pdf)</b> <br> 
 <b>Bing Li</b>, Wei Wang, Yifang Sun, Linhan Zhang, Muhammad Asif Ali, Yi Wang,<br>
 <i>AAAI</i>, (2020): 8172-8179.
