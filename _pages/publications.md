@@ -11,7 +11,7 @@ Publications
 <b>Bing Li</b>, Bing Li, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
 <i>AAAI</i>, (2021).
 
-1. <b>[Two-Stream Convolution Augmented Transformer for Human Activity Recognition](<a href="pdf/THAT.pdf" target="_blank">PDF</a>)</b> <br> 
+1. <b>[Two-Stream Convolution Augmented Transformer for Human Activity Recognition][<a href="https://www.ijcai.org/Proceedings/2018/0576.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/phrase2vec" target="_blank">Code</a>]</b> <br> 
 <b>Bing Li</b>, Wei Cui, Wei Wang, Le Zhang, Zhenghua Chen, Min Wu,<br>
 <i>AAAI</i>, (2021).
 
