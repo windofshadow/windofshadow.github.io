@@ -11,7 +11,7 @@ Publications
 <b>Bing Li</b>, Bing Li, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
 <i>AAAI</i>, (2021).
 
-1. <b>[Two-Stream Convolution Augmented Transformer for Human Activity Recognition](<a href="pdf/THAT.pdf" target="_blank">PDF)</b> <br> 
+1. <b>[Two-Stream Convolution Augmented Transformer for Human Activity Recognition](<a href="pdf/THAT.pdf" target="_blank">PDF</a>)</b> <br> 
 <b>Bing Li</b>, Wei Cui, Wei Wang, Le Zhang, Zhenghua Chen, Min Wu,<br>
 <i>AAAI</i>, (2021).
 
@@ -39,7 +39,7 @@ Le Zhang, Zhenghua Chen, Wei Cui, <b>Bing Li</b>, Cen Chen, Zhiguang Cao, Kaizho
 Wei Cui, <b>Bing Li</b>, Le Zhang, Wei Meng,<br>
 <i>IEEE Systems Journal</i>, 13, no. 3 (2018): 3490-3500
 
-1. <b>[An Adaptive Hierarchical Compositional Model for Phrase Embedding.](<a href="https://www.ijcai.org/Proceedings/2018/0576.pdf" target="_blank">PDF)</b> <br> https://github.com/windofshadow/phrase2vec
+1. <b>[An Adaptive Hierarchical Compositional Model for Phrase Embedding.](<a href="https://www.ijcai.org/Proceedings/2018/0576.pdf" target="_blank">PDF</a><a href="https://github.com/windofshadow/phrase2vec" target="_blank">Code</a>)</b> <br> 
 <b>Bing Li</b>, Xiaochun Yang, Bin Wang, Wei Wang, Wei Cui, Xianchao Zhang,<br>
 <i>IJCAI</i>, (2018): 4144-4151
 
