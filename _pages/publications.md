@@ -8,7 +8,7 @@ author_profile: true
 Publications
 
 1. <b>[Improving the Efficiency and Effectiveness for BERT-based Entity Resolution][<a href="pdf/BERTer.pdf" target="_blank">PDF</a>]</b> <br> 
-<b>Bing Li</b>, Bing Li, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
+<b>Bing Li</b>, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
 <i>AAAI</i>, (2021).
 
 1. <b>[Two-Stream Convolution Augmented Transformer for Human Activity Recognition][<a href="pdf/THAT.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/THAT" target="_blank">Code</a>]</b> <br> 
