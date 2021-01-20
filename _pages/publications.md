@@ -15,7 +15,7 @@ Publications
 <b>Bing Li</b>, Wei Cui, Wei Wang, Le Zhang, Zhenghua Chen, Min Wu,<br>
 <i>AAAI</i>, (2021).
 
-1. <b>[GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.10313.pdf)</b> <br> 
+1. <b>[GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks][<a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.10313.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/GraphER" target="_blank">Code</a>]</b> <br> 
 <b>Bing Li</b>, Wei Wang, Yifang Sun, Linhan Zhang, Muhammad Asif Ali, Yi Wang,<br>
 <i>AAAI</i>, (2020): 8172-8179.
 
