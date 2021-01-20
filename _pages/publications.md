@@ -20,7 +20,7 @@ Publications
 <i>AAAI</i>, (2020): 8172-8179.
 
 1. <b>[Recursively Binary Modification Model for Nested Named Entity Recognition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.9947.pdf)</b> <br> 
-<b>Bing Li</b>, Shifeng Liu, Yifnag Sun, Wei Wang, Xiang Zhao,<br>
+<b>Bing Li</b>, Shifeng Liu, Yifang Sun, Wei Wang, Xiang Zhao,<br>
 <i>AAAI</i>, (2020): 8164-8171.
 
 1. <b>[Fine-Grained Named Entity Typing over Distantly Supervised Data Based on Refined Representations](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-AliM.2531.pdf)</b> <br> 
