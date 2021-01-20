@@ -39,7 +39,7 @@ Le Zhang, Zhenghua Chen, Wei Cui, <b>Bing Li</b>, Cen Chen, Zhiguang Cao, Kaizho
 Wei Cui, <b>Bing Li</b>, Le Zhang, Wei Meng,<br>
 <i>IEEE Systems Journal</i>, 13, no. 3 (2018): 3490-3500
 
-1. <b>[An Adaptive Hierarchical Compositional Model for Phrase Embedding.](<a href="https://www.ijcai.org/Proceedings/2018/0576.pdf" target="_blank">PDF</a><a href="https://github.com/windofshadow/phrase2vec" target="_blank">Code</a>)</b> <br> 
+1. <b>[An Adaptive Hierarchical Compositional Model for Phrase Embedding.][<a href="https://www.ijcai.org/Proceedings/2018/0576.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/phrase2vec" target="_blank">Code</a>]</b> <br> 
 <b>Bing Li</b>, Xiaochun Yang, Bin Wang, Wei Wang, Wei Cui, Xianchao Zhang,<br>
 <i>IJCAI</i>, (2018): 4144-4151
 
