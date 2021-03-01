@@ -12,7 +12,7 @@ redirect_from:
 
 * I obtained my Ph.D. Degree from Northeastern University, China at 2018 under the supervision of Prof. Xiaochun Yang. From 2017 to 2018, I was a joint-training Ph.D. student of UNSW. After graduation, I have been working at UNSW as a Postdoctoral Fellow under the supervision of Prof. Wei Wang. 
 
-* My research interests are NLP, Text Mining, and related applications.
+* My research interests are DB+AI, Text Mining, NLP, and related applications.
 
 
 
