@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+Awards
+
+<b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
 
 Publications
 
