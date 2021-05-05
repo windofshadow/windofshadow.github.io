@@ -13,4 +13,6 @@ author_profile: true
 * **Journal Invited Reviewer:**
   * IEEE Transactions on Knowledge and Data
   * World Wide Web Journal
+  * Information Fusion
   * IEEE Access
+  * Complexity 
