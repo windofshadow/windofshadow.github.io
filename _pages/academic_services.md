@@ -14,5 +14,6 @@ author_profile: true
   * IEEE Transactions on Knowledge and Data
   * World Wide Web Journal
   * Information Fusion
+  * Soft Computing
   * IEEE Access
   * Complexity 
