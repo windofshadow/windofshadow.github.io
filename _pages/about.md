@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* I was invited to serve as PC for ICLR2022.
 * I have two papers been accepted by <b>AAAI2021</b> main technical track.
 * I was invited to serve as PC for ICLR2021.
 * I was invited to serve as PC for AAAI2021.
